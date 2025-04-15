@@ -1,3 +1,4 @@
+tema: jekyll-theme-NAME
 # Data Analyst
 
 ## Education
