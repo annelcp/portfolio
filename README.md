@@ -1,6 +1,6 @@
 # Data Analyst
 
-##Education
+## Education
 Bachelor's degree in civil engineering
 
 ## Work experience
@@ -46,6 +46,6 @@ Lideré la construcción de sótanos, columnas y losas de torre, asegurando la s
 
 Mantuvé el control de calidad en todas las etapas, cumpliendo con especificaciones técnicas y normas de seguridad.
 
-### projects
+### Projects
 TripleTen Bootcamp Data Analyst
 
