@@ -1,13 +1,13 @@
 tema: jekyll-theme-minimal
-# Data Analyst
+# 👨🏼‍💻👷🏼‍♂️ Data Analyst
 
 ## Education
-Bachelor's degree in civil engineering
+Bachelor's degree in civil engineering 🏗️
 
 ## Work experience
 Construction resident @ Anteus Constructora
 
--SAO PAULO URBANO
+### SAO PAULO URBANO 🏢
 Residente Encargado de Obra | Edificio de 27 niveles con 4 sótanos
 
 Supervisé el ciclo completo del proyecto, desde la planeación hasta la entrega de la estructura, cumpliendo con todos los entregables en tiempo.
@@ -18,7 +18,7 @@ Gestioné negociaciones con el cliente para conciliación de trabajos adicionale
 
 Dirigí a todos los equipos técnicos y de obra en sitio, manteniendo el flujo de trabajo y los estándares de calidad.
 
--EDIFICIO LANDMARK II
+### EDIFICIO LANDMARK II 🏢
 Residente de Obra | Edificio de 38 niveles con 7 sótanos
 
 Planifiqué y controlé el programa general de construcción, cumpliendo hitos clave dentro de los plazos establecidos.
@@ -29,7 +29,7 @@ Aseguré la coherencia entre los planos estructurales y arquitectónicos mediant
 
 Elaboré y actualicé cronogramas para la entrega oportuna de la estructura.
 
--EDIFICIO VIANTO AMÉRICAS 1331
+### EDIFICIO VIANTO AMÉRICAS 1331 🏢
 Residente Encargado de Obra | Edificio de media altura con 3 sótanos
 
 Gestioné la ejecución del proyecto desde la excavación hasta la terminación de elementos estructurales como zapatas y columnas.
