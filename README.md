@@ -50,3 +50,20 @@ Mantuvé el control de calidad en todas las etapas, cumpliendo con especificacio
 ### Projects
 TripleTen Bootcamp Data Analyst
 
+# Dashboard de análisis de tendencias de videos en YouTube Sterling & Draper – Proyecto Sprint 12 (Análisis de Datos)
+Trabajé como analista de datos para una agencia de publicidad, donde identifiqué las categorías de videos más populares en YouTube según región y fecha de tendencia. El objetivo era automatizar la respuesta a consultas frecuentes del equipo de marketing mediante un dashboard interactivo creado en tableau public.
+Analicé un gran volumen de datos sobre videos en tendencia, clasificados por categoría, país y fecha.
+Identifiqué que las categorías más frecuentes en tendencias fueron: Entertainment, Comedy, Music, News & Politics y People & Blogs.
+Detecté diferencias clave entre las regiones, como la alta popularidad de Music en EE. UU., People & Blogs en Rusia y News & Politics en India.
+Automatizé el proceso de análisis mediante la creación de un pipeline de datos que integraba la recopilación, transformación y agregación de la información.
+Diseñé y desarrollé un dashboard interactivo para responder de manera visual y dinámica a preguntas clave del equipo, facilitando la toma de decisiones de marketing.
+Este proyecto fortaleció mis habilidades en análisis exploratorio, visualización de datos, automatización de procesos y comunicación de hallazgos relevantes para usuarios no técnicos.
+
+# Análisis de industria editorial mediante SQL Proyecto de análisis de datos – SQL
+Analicé una base de datos relacional proveniente de un startup del sector editorial que buscaba identificar oportunidades de negocio durante la pandemia. El objetivo fue desarrollar una propuesta de valor para un nuevo producto dirigido a lectores frecuentes, a partir del análisis de libros, autores, editoriales y calificaciones de usuarios.
+Exploré y consulté una base de datos compuesta por tablas de libros, autores, editoriales, calificaciones y reseñas.
+Generé consultas SQL para responder preguntas clave del negocio, enfocadas en la preferencia de los usuarios y el rendimiento de los libros.
+Determiné cuántos libros fueron publicados después del 1 de enero de 2000, filtrando el catálogo relevante para nuevos productos.
+Detecté al autor con la mayor calificación promedio, considerando solo libros con al menos 50 valoraciones para garantizar resultados confiables.
+Calculé el promedio de reseñas escritas entre los usuarios que calificaron más de 50 libros, para entender el comportamiento de los lectores más activos.
+Este proyecto fortaleció mis habilidades en consultas avanzadas en SQL, análisis lógico de datos, limpieza y filtrado de información, así como la capacidad de convertir datos en insights accionables para la toma de decisiones.
