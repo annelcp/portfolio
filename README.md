@@ -25,6 +25,9 @@ Dirigí a todos los equipos técnicos y de obra en sitio, manteniendo el flujo d
 ### EDIFICIO LANDMARK II 🏢
 Residente de Obra | Edificio de 38 niveles con 7 sótanos
 
+<img src="https://admin.sordomadaleno.com/uploads/01_f_S_Ekb0_HQ_34039ee633.jpeg" alt="Landmark Reserve" width="300"/>
+
+
 Planifiqué y controlé el programa general de construcción, cumpliendo hitos clave dentro de los plazos establecidos.
 
 Supervisé fases estructurales críticas como lanzado de muros de contención, losa de cimentación, sótanos y niveles de torre.
