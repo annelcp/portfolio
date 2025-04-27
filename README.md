@@ -10,7 +10,7 @@ Construction resident @ Anteus Constructora
 ### SAO PAULO URBANO 🏢
 Residente Encargado de Obra | Edificio de 27 niveles con 4 sótanos
 
-<img src="assets/spu.jpg" alt="spu" width="200"/>
+<img src="assets/spu.jpg" alt="spu" width="200"/>  <img src="assets/ultima losa spu.jpg" alt="spu" width="632"/>
 
 
 
@@ -25,7 +25,10 @@ Dirigí a todos los equipos técnicos y de obra en sitio, manteniendo el flujo d
 ### EDIFICIO LANDMARK II 🏢
 Residente de Obra | Edificio de 38 niveles con 7 sótanos
 
-<img src="https://admin.sordomadaleno.com/uploads/01_f_S_Ekb0_HQ_34039ee633.jpeg" alt="Landmark Reserve" width="300"/>
+<img src="https://admin.sordomadaleno.com/uploads/01_f_S_Ekb0_HQ_34039ee633.jpeg" alt="Landmark Reserve" width="600"/> <a href="https://cdn.casasyterrenos.com/desarrollos/5674/1-0167b6c1-Puerta-de-Hierro-Zapopan-Jalisco-5674.jpg" target="_blank">
+  <img src="https://cdn.casasyterrenos.com/desarrollos/5674/1-0167b6c1-Puerta-de-Hierro-Zapopan-Jalisco-5674.jpg" alt="Landmark Reserve Zapopan" width="300"/>
+</a>
+
 
 
 Planifiqué y controlé el programa general de construcción, cumpliendo hitos clave dentro de los plazos establecidos.
