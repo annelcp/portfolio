@@ -23,7 +23,7 @@ Gestioné negociaciones con el cliente para conciliación de trabajos adicionale
 Dirigí a todos los equipos técnicos y de obra en sitio, manteniendo el flujo de trabajo y los estándares de calidad.
 
 ### EDIFICIO LANDMARK II 🏢
-Residente de Obra | Edificio de 38 niveles con 7 sótanos
+Residente de Obra | Edificio de 38 niveles con 7 sótanos.
 
 <img src="https://admin.sordomadaleno.com/uploads/01_f_S_Ekb0_HQ_34039ee633.jpeg" alt="Landmark Reserve" width="600"/> <a href="https://cdn.casasyterrenos.com/desarrollos/5674/1-0167b6c1-Puerta-de-Hierro-Zapopan-Jalisco-5674.jpg" target="_blank">
   <img src="https://cdn.casasyterrenos.com/desarrollos/5674/1-0167b6c1-Puerta-de-Hierro-Zapopan-Jalisco-5674.jpg" alt="Landmark Reserve Zapopan" width="300"/>
