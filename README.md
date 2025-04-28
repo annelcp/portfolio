@@ -129,7 +129,7 @@ Se desarrolló un enfoque basado en datos para la toma de decisiones estratégic
   </a>
 </div>
 
-[![Dashboard de Tableau](./assets/dashboard1.jpg)](https://public.tableau.com/app/profile/jorge.annel.corchado.partida/viz/jacp_sprint12_DASHBOARD/Dashboard1)
+[![Dashboard de Tableau](./assets/dashboard1.png)](https://public.tableau.com/app/profile/jorge.annel.corchado.partida/viz/jacp_sprint12_DASHBOARD/Dashboard1)
 
 
 
