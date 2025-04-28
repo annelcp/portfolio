@@ -129,6 +129,8 @@ Se desarrolló un enfoque basado en datos para la toma de decisiones estratégic
   </a>
 </div>
 
+[![Dashboard de Tableau](./assets/dashboard1.jpg)](https://public.tableau.com/app/profile/jorge.annel.corchado.partida/viz/jacp_sprint12_DASHBOARD/Dashboard1)
+
 
 
 Trabajé como analista de datos para una agencia de publicidad, donde identifiqué las categorías de videos más populares en YouTube según región y fecha de tendencia. El objetivo era automatizar la respuesta a consultas frecuentes del equipo de marketing mediante un dashboard interactivo creado en tableau public.
