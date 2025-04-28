@@ -42,6 +42,17 @@ Elaboré y actualicé cronogramas para la entrega oportuna de la estructura.
 ### EDIFICIO VIANTO AMÉRICAS 1331 🏢
 Residente Encargado de Obra | Edificio de media altura con 3 sótanos
 
+<div align="center">
+  <a href="https://firebasestorage.googleapis.com/v0/b/peninsula-368217.appspot.com/o/Corporativos%2FPeninsula%2FDesarrollos%2FWYnLllQcGOXpJvA1uoXP%2FMedia%2FXfOVdTwGA7Q5vR5rtktH.jpg?alt=media&token=1671120127740181" target="_blank">
+    <img src="https://firebasestorage.googleapis.com/v0/b/peninsula-368217.appspot.com/o/Corporativos%2FPeninsula%2FDesarrollos%2FWYnLllQcGOXpJvA1uoXP%2FMedia%2FXfOVdTwGA7Q5vR5rtktH.jpg?alt=media&token=1671120127740181" alt="Imagen Peninsula 1" width="300"/>
+  </a>
+
+  <a href="https://firebasestorage.googleapis.com/v0/b/peninsula-368217.appspot.com/o/Corporativos%2FPeninsula%2FDesarrollos%2FWYnLllQcGOXpJvA1uoXP%2FMedia%2F37WL7zErZXRptoPgLq5S.jpg?alt=media&token=1671120126217150" target="_blank">
+    <img src="https://firebasestorage.googleapis.com/v0/b/peninsula-368217.appspot.com/o/Corporativos%2FPeninsula%2FDesarrollos%2FWYnLllQcGOXpJvA1uoXP%2FMedia%2F37WL7zErZXRptoPgLq5S.jpg?alt=media&token=1671120126217150" width="300" alt="Imagen Peninsula 2"/>
+  </a>
+</div>
+ 
+
 Gestioné la ejecución del proyecto desde la excavación hasta la terminación de elementos estructurales como zapatas y columnas.
 
 Coordiné actividades complejas como movimiento de tierras, lanzado de muros de contención y colocación de trabes de liga en pilotes.
@@ -53,71 +64,34 @@ Supervisé la revisión de nómina y verifiqué el avance de obra conforme al al
 ### TripleTen Bootcamp Data Analyst
 
 ### 🎮 Análisis de Ventas y Perfil de Videojuegos para la Tienda Ice
+
+<div align="center">
+  <a href="https://user-images.githubusercontent.com/125219883/219969990-00a7485e-5bf8-46b3-b255-c146972fc312.png" target="_blank">
+    <img src="https://user-images.githubusercontent.com/125219883/219969990-00a7485e-5bf8-46b3-b255-c146972fc312.png" alt="Imagen Usuario GitHub" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+
+  <a href="https://www.gaceta.unam.mx/wp-content/uploads/2023/08/230831-Aca9-des-f1-videojuegos.jpg" target="_blank">
+    <img src="https://www.gaceta.unam.mx/wp-content/uploads/2023/08/230831-Aca9-des-f1-videojuegos.jpg" alt="Imagen Videojuegos UNAM" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  </a>
+</div>
+
 Este proyecto tuvo como objetivo analizar un conjunto de datos históricos de videojuegos para entender los factores que determinan su éxito comercial. La finalidad fue identificar patrones de comportamiento que permitan a la tienda online Ice detectar productos prometedores y planificar campañas publicitarias más efectivas para el año 2017, usando como base los datos disponibles hasta 2016.
 
 🧠 Metodologías y Técnicas Aplicadas
 1. Exploración inicial de los datos
-Apertura del archivo games.csv y análisis general de su estructura.
 
-Revisión de variables clave como: Name, Platform, Genre, Year_of_Release, User_Score, Critic_Score, Rating, y ventas por región.
 
 2. Preprocesamiento de los datos
-Estandarización de nombres de columnas (conversión a minúsculas).
 
-Conversión de tipos de datos (por ejemplo, fechas, puntuaciones y números de ventas).
-
-Manejo de valores nulos, especialmente en:
-
-year_of_release, critic_score, user_score, y rating.
-
-Se discutieron las posibles causas de ausencia y se aplicaron decisiones informadas para imputar o descartar.
-
-Tratamiento de valores "TBD" en puntuaciones, reemplazándolos o eliminándolos según el caso.
-
-Cálculo de una nueva columna total_sales, sumando ventas por región.
 
 3. Análisis exploratorio y visualización
-Estudio de la distribución de lanzamientos por año y determinación del periodo de análisis útil para el modelo de predicción.
 
-Identificación de plataformas líderes en ventas y visualización de su evolución en el tiempo.
-
-Análisis de ciclo de vida de las plataformas (aparición, auge y declive).
-
-Creación de diagramas de caja para comparar ventas globales entre plataformas.
-
-Exploración de la influencia de las reseñas (críticas y usuarios) sobre las ventas, con:
-
-Gráficos de dispersión.
-
-Cálculo de correlación entre puntuaciones y ventas.
-
-Estudio comparativo de ventas de un mismo juego en diferentes plataformas.
-
-Análisis de géneros de videojuegos más rentables y su distribución global.
 
 4. Análisis por región geográfica
-Estudio detallado de preferencias regionales (NA, EU, JP):
 
-Top 5 plataformas y su participación de mercado.
-
-Top 5 géneros y diferencias culturales en preferencias.
-
-Evaluación del impacto del rating ESRB sobre las ventas por región.
 
 5. Prueba de hipótesis estadísticas
-Formulación y prueba de las siguientes hipótesis:
 
-📌 "Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son iguales."
-
-📌 "Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes."
-
-Establecimiento de hipótesis nula y alternativa.
-
-Definición de un valor alfa.
-
-Aplicación de pruebas estadísticas adecuadas (por ejemplo, prueba t de Student para dos muestras independientes).
-
-Interpretación de resultados y conclusiones con base en criterios estadísticos.
 
 🧰 Herramientas y Lenguajes Utilizados
 Lenguaje de programación: Python
@@ -144,6 +118,19 @@ Se comprobó estadísticamente que ciertas diferencias entre plataformas y géne
 Se desarrolló un enfoque basado en datos para la toma de decisiones estratégicas en la industria del gaming.
 
 ### 📊 Dashboard de análisis de tendencias de videos en YouTube Sterling & Draper – Proyecto Sprint 12 (Análisis de Datos)
+
+<div align="center">
+  <a href="https://m.media-amazon.com/images/I/A1PBNSU6W-L.png" target="_blank">
+    <img src="https://m.media-amazon.com/images/I/A1PBNSU6W-L.png" alt="Imagen Amazon" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
+  </a>
+
+  <a href="https://cdn.mos.cms.futurecdn.net/jJneZLjUsUvFK5y3bJNUdD.jpg" target="_blank">
+    <img src="https://cdn.mos.cms.futurecdn.net/jJneZLjUsUvFK5y3bJNUdD.jpg" alt="Imagen Futurecdn" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 10px;"/>
+  </a>
+</div>
+
+
+
 Trabajé como analista de datos para una agencia de publicidad, donde identifiqué las categorías de videos más populares en YouTube según región y fecha de tendencia. El objetivo era automatizar la respuesta a consultas frecuentes del equipo de marketing mediante un dashboard interactivo creado en tableau public.
 
 Analicé un gran volumen de datos sobre videos en tendencia, clasificados por categoría, país y fecha.
