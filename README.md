@@ -10,7 +10,7 @@ Construction resident @ Anteus Constructora
 ### SAO PAULO URBANO 🏢
 Residente Encargado de Obra | Edificio de 27 niveles con 4 sótanos
 
-
+<img src="assets/spu" alt="Foto de LinkedIn" width="250"/> <img src="assets/ultima losa spu" alt="Foto de LinkedIn" width="350"/>
 
 
 
