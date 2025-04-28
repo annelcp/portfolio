@@ -6,17 +6,23 @@ Bachelor's degree in civil engineering 🏗️
 
 ## SOBRE MI
 
+¡Hola! Soy Annel, ingeniero civil apasionado por la construcción y también entusiasta del mundo tech.
+Me interesé en tecnología porque ofrece mejores oportunidades de ingresos y home office, algo que en obra es difícil por los horarios extendidos.
+Busco encontrar un equilibrio: seguir disfrutando de la ingeniería civil mientras desarrollo una segunda carrera tech de forma remota.
 
-<img src="assets/banner.png" alt="banner" width="600"/>
+<div align="center">
+  <img src="assets/civildata.png" alt="civildata" width="700"/>
+</div>
+
 
 ## Work experience
 Construction resident @ Anteus Constructora
 
 ### SAO PAULO URBANO 🏢
 Residente Encargado de Obra | Edificio de 27 niveles con 4 sótanos
-
-<img src="assets/spu.jpg" alt="Foto de LinkedIn" width="250"/> <img src="assets/ultima losa spu.jpg" alt="Foto de LinkedIn" width="636"/>
-
+<div align="center">
+  <img src="assets/spu.jpg" alt="Foto de LinkedIn" width="250"/> <img src="assets/ultima losa spu.jpg" alt="Foto de LinkedIn" width="350"/>
+</div>
 
 
 Supervisé el ciclo completo del proyecto, desde la planeación hasta la entrega de la estructura, cumpliendo con todos los entregables en tiempo.
@@ -80,47 +86,13 @@ Supervisé la revisión de nómina y verifiqué el avance de obra conforme al al
   </a>
 </div>
 
-Este proyecto tuvo como objetivo analizar un conjunto de datos históricos de videojuegos para entender los factores que determinan su éxito comercial. La finalidad fue identificar patrones de comportamiento que permitan a la tienda online Ice detectar productos prometedores y planificar campañas publicitarias más efectivas para el año 2017, usando como base los datos disponibles hasta 2016.
+En este proyecto analicé datos históricos de videojuegos para identificar los factores que impulsan su éxito comercial. Mi objetivo fue ayudar a la tienda online Ice a detectar productos prometedores y optimizar sus campañas publicitarias para 2017, basándome en datos reales y análisis estadísticos.
 
-🧠 Metodologías y Técnicas Aplicadas
-1. Exploración inicial de los datos
+Apliqué técnicas de análisis exploratorio, visualización, pruebas de hipótesis y segmentación por región, utilizando Python, pandas, matplotlib, seaborn y scipy en Jupyter Notebook.
 
-
-2. Preprocesamiento de los datos
+¿El resultado? Un enfoque claro y basado en datos que facilita la toma de decisiones estratégicas, aumentando las probabilidades de éxito en marketing y ventas.
 
 
-3. Análisis exploratorio y visualización
-
-
-4. Análisis por región geográfica
-
-
-5. Prueba de hipótesis estadísticas
-
-
-🧰 Herramientas y Lenguajes Utilizados
-Lenguaje de programación: Python
-
-Entorno de trabajo: Jupyter Notebook
-
-Librerías empleadas:
-
-pandas: manipulación de datos
-
-matplotlib y seaborn: visualización
-
-scipy.stats: pruebas de hipótesis
-
-(opcional) numpy para operaciones numéricas
-
-✅ Resultados y Conclusiones
-Se identificaron plataformas y géneros con mayor potencial de éxito para futuras campañas de marketing.
-
-Se analizaron factores críticos que influyen en las ventas: plataforma, región, género, y calificaciones.
-
-Se comprobó estadísticamente que ciertas diferencias entre plataformas y géneros son significativas en términos de percepción y ventas.
-
-Se desarrolló un enfoque basado en datos para la toma de decisiones estratégicas en la industria del gaming.
 
 ### 📊 Dashboard de análisis de tendencias de videos en YouTube Sterling & Draper – Proyecto Sprint 12 (Análisis de Datos)
 
@@ -138,84 +110,14 @@ Se desarrolló un enfoque basado en datos para la toma de decisiones estratégic
 
 
 
-Trabajé como analista de datos para una agencia de publicidad, donde identifiqué las categorías de videos más populares en YouTube según región y fecha de tendencia. El objetivo era automatizar la respuesta a consultas frecuentes del equipo de marketing mediante un dashboard interactivo creado en tableau public.
-
-Analicé un gran volumen de datos sobre videos en tendencia, clasificados por categoría, país y fecha.
-
-Identifiqué que las categorías más frecuentes en tendencias fueron: Entertainment, Comedy, Music, News & Politics y People & Blogs.
-
-Detecté diferencias clave entre las regiones, como la alta popularidad de Music en EE. UU., People & Blogs en Rusia y News & Politics en India.
-
-Automatizé el proceso de análisis mediante la creación de un pipeline de datos que integraba la recopilación, transformación y agregación de la información.
-
-Diseñé y desarrollé un dashboard interactivo para responder de manera visual y dinámica a preguntas clave del equipo, facilitando la toma de decisiones de marketing.
-
-Este proyecto fortaleció mis habilidades en análisis exploratorio, visualización de datos, automatización de procesos y comunicación de hallazgos relevantes para usuarios no técnicos.
+Trabajé como analista de datos para una agencia de publicidad, donde analicé tendencias de videos en YouTube por región y categoría. Automatizé el procesamiento de datos y diseñé un dashboard interactivo en Tableau para que el equipo de marketing pudiera responder rápido a preguntas clave sobre popularidad de contenidos.
 
 ### 📊 Análisis de industria editorial mediante SQL Proyecto de análisis de datos – SQL
-Analicé una base de datos relacional proveniente de un startup del sector editorial que buscaba identificar oportunidades de negocio durante la pandemia. El objetivo fue desarrollar una propuesta de valor para un nuevo producto dirigido a lectores frecuentes, a partir del análisis de libros, autores, editoriales y calificaciones de usuarios.
-
-Exploré y consulté una base de datos compuesta por tablas de libros, autores, editoriales, calificaciones y reseñas.
-
-Generé consultas SQL para responder preguntas clave del negocio, enfocadas en la preferencia de los usuarios y el rendimiento de los libros.
-
-Determiné cuántos libros fueron publicados después del 1 de enero de 2000, filtrando el catálogo relevante para nuevos productos.
-
-Detecté al autor con la mayor calificación promedio, considerando solo libros con al menos 50 valoraciones para garantizar resultados confiables.
-
-Calculé el promedio de reseñas escritas entre los usuarios que calificaron más de 50 libros, para entender el comportamiento de los lectores más activos.
-
-✅ Este proyecto fortaleció mis habilidades en consultas avanzadas en SQL, análisis lógico de datos, limpieza y filtrado de información, así como la capacidad de convertir datos en insights accionables para la toma de decisiones.
+Analicé una base de datos de una startup editorial para detectar oportunidades de negocio durante la pandemia. Usé consultas avanzadas en SQL para identificar tendencias en libros, autores y comportamiento de usuarios.
+¿Qué logré? Transformar grandes volúmenes de datos en insights accionables, apoyando el diseño de nuevos productos dirigidos a lectores frecuentes.
 
 ### 📊 Análisis de Preferencias Musicales entre Springfield y Shelbyville
 Este proyecto tuvo como objetivo analizar los hábitos de consumo musical online en dos ciudades distintas: Springfield y Shelbyville, y comprobar si existen diferencias en la actividad de los usuarios según la ciudad y el día de la semana. Para ello, se desarrolló un análisis en tres etapas principales, aplicando técnicas de análisis de datos y pruebas estadísticas.
 
-🧠 Metodologías y Técnicas Aplicadas
-1. Exploración y descripción de los datos (EDA)
-Se inició con un análisis exploratorio para comprender la estructura del dataset y sus variables.
-
-Se revisaron las columnas clave: userID, Track, artist, genre, City, time, y Day.
-
-Se generaron observaciones iniciales para identificar patrones y posibles inconsistencias.
-
-2. Preprocesamiento de datos
-Se aplicaron técnicas de limpieza de datos:
-
-Corrección de nombres de columnas para estandarizar formatos.
-
-Eliminación de duplicados para evitar sesgos en los resultados.
-
-Manejo de valores faltantes, asegurando integridad en el análisis.
-
-3. Prueba de hipótesis
-Se formuló y evaluó la siguiente hipótesis:
-
-"La actividad de los usuarios y las usuarias difiere según el día de la semana y dependiendo de la ciudad."
-
-Se aplicaron métodos de estadística inferencial para comparar los comportamientos entre ambas ciudades.
-
-Esto incluyó el uso de funciones para el conteo y agrupamiento de datos por ciudad y día.
-
-Se interpretaron los resultados con base en criterios estadísticos para aceptar o rechazar total o parcialmente la hipótesis.
-
-🧰 Herramientas y Lenguajes Utilizados
-Lenguaje de programación: Python 🐍
-
-Entorno de trabajo: Jupyter Notebook
-
-Librerías utilizadas:
-
-pandas: para manipulación y limpieza de datos
-
-matplotlib y/o seaborn: para visualización de patrones
-
-(Opcional si se usó) numpy: para operaciones numéricas
-
-Funciones estadísticas básicas implementadas con Python para prueba de hipótesis
-
-✅ Resultados y Conclusiones
-Se concluyó si existían diferencias significativas en los hábitos de reproducción musical entre usuarios de Springfield y Shelbyville.
-
-Se destacó si la hipótesis fue aceptada, rechazada total o parcialmente, con base en los análisis realizados.
-
-El proyecto demostró cómo los datos pueden guiar la toma de decisiones y comprobar supuestos empresariales a través de un enfoque estructurado y basado en evidencia.
+Estudié los hábitos de consumo musical online en dos ciudades distintas, aplicando técnicas de limpieza de datos, análisis exploratorio y pruebas estadísticas.
+¿Qué logré? Confirmar si existían diferencias de comportamiento entre las ciudades y demostrar cómo los datos pueden validar (o refutar) supuestos estratégicos de negocio.
