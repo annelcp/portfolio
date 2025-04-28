@@ -4,6 +4,11 @@ tema: jekyll-theme-minimal
 ## Education
 Bachelor's degree in civil engineering 🏗️
 
+## SOBRE MI
+
+
+<img src="assets/banner.png" alt="banner" width="600"/>
+
 ## Work experience
 Construction resident @ Anteus Constructora
 
