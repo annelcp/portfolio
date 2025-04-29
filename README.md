@@ -113,10 +113,19 @@ Apliqué técnicas de análisis exploratorio, visualización, pruebas de hipóte
 Trabajé como analista de datos para una agencia de publicidad, donde analicé tendencias de videos en YouTube por región y categoría. Automatizé el procesamiento de datos y diseñé un dashboard interactivo en Tableau para que el equipo de marketing pudiera responder rápido a preguntas clave sobre popularidad de contenidos.
 
 ### 📊 Análisis de industria editorial mediante SQL Proyecto de análisis de datos – SQL
+
+<div align="center">
+  <img src="assets/sql.png" alt="sql" width="700"/>
+</div>
+
 Analicé una base de datos de una startup editorial para detectar oportunidades de negocio durante la pandemia. Usé consultas avanzadas en SQL para identificar tendencias en libros, autores y comportamiento de usuarios.
 ¿Qué logré? Transformar grandes volúmenes de datos en insights accionables, apoyando el diseño de nuevos productos dirigidos a lectores frecuentes.
 
 ### 📊 Análisis de Preferencias Musicales entre Springfield y Shelbyville
+
+
+
+
 Este proyecto tuvo como objetivo analizar los hábitos de consumo musical online en dos ciudades distintas: Springfield y Shelbyville, y comprobar si existen diferencias en la actividad de los usuarios según la ciudad y el día de la semana. Para ello, se desarrolló un análisis en tres etapas principales, aplicando técnicas de análisis de datos y pruebas estadísticas.
 
 Estudié los hábitos de consumo musical online en dos ciudades distintas, aplicando técnicas de limpieza de datos, análisis exploratorio y pruebas estadísticas.
