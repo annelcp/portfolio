@@ -123,7 +123,9 @@ Analicé una base de datos de una startup editorial para detectar oportunidades 
 
 ### 📊 Análisis de Preferencias Musicales entre Springfield y Shelbyville
 
-
+<div align="center">
+  <img src="assets/musica.jpg" alt="musica" width="700"/>
+</div>
 
 
 Este proyecto tuvo como objetivo analizar los hábitos de consumo musical online en dos ciudades distintas: Springfield y Shelbyville, y comprobar si existen diferencias en la actividad de los usuarios según la ciudad y el día de la semana. Para ello, se desarrolló un análisis en tres etapas principales, aplicando técnicas de análisis de datos y pruebas estadísticas.
