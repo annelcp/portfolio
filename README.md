@@ -128,6 +128,7 @@ Analicé una base de datos de una startup editorial para detectar oportunidades 
 </div>
 
 
+
 Este proyecto tuvo como objetivo analizar los hábitos de consumo musical online en dos ciudades distintas: Springfield y Shelbyville, y comprobar si existen diferencias en la actividad de los usuarios según la ciudad y el día de la semana. Para ello, se desarrolló un análisis en tres etapas principales, aplicando técnicas de análisis de datos y pruebas estadísticas.
 
 Estudié los hábitos de consumo musical online en dos ciudades distintas, aplicando técnicas de limpieza de datos, análisis exploratorio y pruebas estadísticas.
